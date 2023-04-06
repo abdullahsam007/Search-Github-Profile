@@ -8,5 +8,5 @@ A simple search tool to find any GitHub Profile.
 # Mobile View 📱 :
 ![Mob](https://user-images.githubusercontent.com/127679907/230362370-e87d62fb-4e4d-477c-a76b-772815268fb2.png)
 
-Goal :
+# Goal 🎯 :
 To understand the concepts of JavaScript.
