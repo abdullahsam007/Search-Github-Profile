@@ -1,7 +1,7 @@
 # Search-Github-Profile
 A simple search tool to find any GitHub Profile.
 
-# Desktop View :
+# Desktop View 🖥️ :
 
 ![Desk](https://user-images.githubusercontent.com/127679907/230362328-a641091e-410a-420e-8762-165681806e82.png)
 
